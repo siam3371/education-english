@@ -12,6 +12,10 @@
   padding: 20px;
   margin: 20px;
 }
+.regular-btn {
+  height: 50px;
+  width: 100px;
+}
 .regular-btn:hover {
   color: rgb(17, 59, 102);
   background-color: #c3dadf;

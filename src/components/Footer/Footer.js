@@ -23,7 +23,9 @@ const Footer = () => {
                     {/* button click */}
                     <button className="btn btn-danger">Log in </button>
                      </div>
-                     <h3 className="text-center"><small>© 2021 All rights reserved.Privacy Policy</small></h3> 
+                     <h3 className="text-center"><small>  
+Copyrights © 2021 English Course.
+</small></h3> 
             </div>
 
         </div>

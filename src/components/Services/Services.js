@@ -1,7 +1,7 @@
  import React, { useEffect, useState } from 'react';
  import './Services.css'
 import BooksServices from '../BooksServices/BooksServices';
- 
+//  services section
  const Services = () => {
      const [books, setBooks] = useState([])
      useEffect(()=> {
@@ -11,8 +11,8 @@ import BooksServices from '../BooksServices/BooksServices';
      },[])
      return (
          <div className='row'>
-             <div className="fs-3 text-center services-header " >
-             <h1 className="">Here is Our all services</h1>
+             <div className="fs-3 text-center" >
+             <h1 >Here is Our all services</h1>
              <p>Collected Our Book</p>
              </div>
               <div className="col-lg-12 bg-color"> 

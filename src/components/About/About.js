@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div>
             {/* about header part */}
-         <div className="fw-bold fs-4 text-center about-header bg-danger p-5 " >
+         <div className="fw-bold fs-4 text-center about-header p-5 " >
          <h1>About</h1>
                 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit.</p>
          </div>
