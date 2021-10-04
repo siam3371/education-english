@@ -1,0 +1,19 @@
+.contact {
+  background-color: #c3dadf;
+}
+.input-sizing {
+  width: 600px;
+  height: 30px;
+  padding: 20px;
+}
+.input-sizing-new {
+  width: 300px;
+  height: 30px;
+  padding: 20px;
+  margin: 20px;
+}
+.regular-btn:hover {
+  color: rgb(17, 59, 102);
+  background-color: #c3dadf;
+  border: 3px solid darkblue;
+}

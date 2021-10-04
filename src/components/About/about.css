@@ -1,0 +1,16 @@
+.about-header {
+  background-color: aliceblue;
+}
+.btn-regular {
+  color: white;
+  background-color: rgb(161, 69, 4);
+  border: rgb(155, 66, 4);
+  width: 160px;
+  height: 35px;
+}
+.btn-regular:hover {
+  background-color: rgb(187, 166, 128);
+}
+.img-sizing {
+  width: 60%;
+}
