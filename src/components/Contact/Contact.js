@@ -18,8 +18,7 @@
                   <br/>
                   <input className="input-sizing-new" type="text" placeholder="Email Address" required/>
                   <input className="input-sizing-new" type="text" placeholder="Phone Number" required />
-                  {/* <input type="text" /> */}
-                  <button className="btn btn-danger regular-btn">  <i className="fas fa-sign-in-alt"></i>  Sing In</button> 
+                   <button className="btn btn-danger regular-btn">  <i className="fas fa-sign-in-alt"></i>  Sing In</button> 
                 </div> 
           </div> 
    </div>
