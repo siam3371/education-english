@@ -1,10 +1,8 @@
 import React from 'react';
 import './Bookservices.css'
-import { Card , Button, Col} from 'react-bootstrap';
-
+ 
 const BooksServices = (props) => {
-    console.log(props)
-    const {name, img, price, describe, credits} = props.book
+     const {name, img, price, describe, credits} = props.book
     return (
         <div className="m-5 "> 
    <div className="card mb-3">
