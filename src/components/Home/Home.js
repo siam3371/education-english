@@ -7,7 +7,7 @@ import Teachers from '../Teachers/Teachers';
 const Home = () => {
     const [teachers, setTeachers] = useState([]);
     useEffect(()=> {
-        fetch('/teachers.JSON')
+        fetch('./teachers.JSON')
         .then(res => res.json())
         .then(data => setTeachers(data))
     },[]) 
