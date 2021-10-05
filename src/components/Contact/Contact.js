@@ -22,11 +22,11 @@
                    <button className="btn btn-danger regular-btn">  <i className="fas fa-sign-in-alt"></i>  Sing In</button> 
                 </div> 
                 <div className="col-lg-6">
-                  <h2> <i className="social-link fas fa-map-marker-alt"></i> Postal Address:</h2>          
+                  <h2> <i className="social-link fas fa-map-marker-alt"> </i>  Postal Address:</h2>          
                   <h4>PO Box 97845 Baker, Los Angeles, California, US.</h4>
-                  <h2><i className=" social-link fas fa-envelope"></i>Email:</h2> 
+                  <h2><i className=" social-link fas fa-envelope"> </i>  Email:</h2> 
                   <h4>educationEnglish@gmail.com</h4>
-                  <h2> <li className=" social-link fas fa-globe px-2" ></li>Web:</h2>
+                  <h2> <li className=" social-link fas fa-globe px-2" > </li>Web:</h2>
                   <h4>education.com</h4>
                 </div>
           </div> 
