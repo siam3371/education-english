@@ -1,3 +1,14 @@
+.bg-color {
+  color: #997491;
+}
 .img-size {
   width: 50%;
+}
+.btn-join {
+  background-color: rgba(87, 52, 121, 0.349);
+  cursor: pointer;
+  width: 150px;
+  height: 50px;
+  color: darkslategray;
+  border-radius: 5px;
 }

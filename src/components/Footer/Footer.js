@@ -24,8 +24,8 @@ const Footer = () => {
                     <button className="btn btn-danger">Log in </button>
                      </div>
                      <h3 className="text-center"><small>  
-Copyrights © 2021 English Course.
-</small></h3> 
+                     Copyright © 2021 Siam Hossain
+ </small></h3> 
             </div>
 
         </div>

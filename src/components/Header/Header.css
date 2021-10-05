@@ -1,3 +1,4 @@
 .background-color {
-  background-color: #74c18f;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue !important;
 }
